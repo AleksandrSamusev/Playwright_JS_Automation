@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center">
 <img src="images/js-logo.png" width="100" style="margin-right: 20px"/>
-<img src="images/playwright-logo.svg" width="150" /> 
+<img src="images/playwright-logo.svg" width="100" /> 
  
 <h1 style="margin-left: 30px">JS + PLAYWRIGHT AUTOMATION</h1>
 </div>
