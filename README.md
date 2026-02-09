@@ -1,3 +1,10 @@
+<div style="display: flex; align-items: center">
+<img src="images/js-logo.png" width="120" style="margin-right: 20px"/>
+<img src="images/playwright-logo.svg" width="150" /> 
+ 
+<h1 style="margin-left: 30px">JS + PLAYWRIGHT AUTOMATION</h1>
+</div>
+
 ## Pre-conditions
 
 - Node.js 14 or higher version should be installed
